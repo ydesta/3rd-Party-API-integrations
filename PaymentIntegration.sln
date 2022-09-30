@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentIntegration.API", "PaymentIntegration.API\PaymentIntegration.API.csproj", "{D1344E77-E115-4F1A-AB40-E5FA0D3B728C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentIntegration.CORE", "PaymentIntegration.CORE\PaymentIntegration.CORE.csproj", "{BBCB6FBB-C12A-467B-A1C3-C4DF407CE21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1344E77-E115-4F1A-AB40-E5FA0D3B728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1344E77-E115-4F1A-AB40-E5FA0D3B728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1344E77-E115-4F1A-AB40-E5FA0D3B728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1344E77-E115-4F1A-AB40-E5FA0D3B728C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCB6FBB-C12A-467B-A1C3-C4DF407CE21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCB6FBB-C12A-467B-A1C3-C4DF407CE21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCB6FBB-C12A-467B-A1C3-C4DF407CE21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCB6FBB-C12A-467B-A1C3-C4DF407CE21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BED0DA3-49F8-432F-973C-5C05B2311C9F}
+	EndGlobalSection
+EndGlobal

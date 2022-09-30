@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ik8phLrOnPEzZRHyKhWa0Wcndawo/cl7ux2x6aSCgXs=",
+  "Source": "CUSTOR.PaymentIntegrationWithDerash.API",
+  "BasePath": "_content/CUSTOR.PaymentIntegrationWithDerash.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
